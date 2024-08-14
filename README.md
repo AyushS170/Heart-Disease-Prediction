@@ -16,8 +16,7 @@ In a statement ,
 > Givem clinical parameters about a patient, can we predict whether or not they have a heart Disease
 
 ## 2. Data
-The data we are using in current project:
-https://archive.ics.uci.edu/dataset/45/heart+disease
+The data we are using in current project is uploaded in repository
 
 for extra data we can refer this website:
 https://www.kaggle.com/datasets/redwankarimsony/heart-disease-data
