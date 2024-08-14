@@ -1,4 +1,4 @@
-Predicting heart disease using Machine Learning 
+#Predicting heart disease using Machine Learning 
 
 This notebook looks into usingvarious Python-based ML adn DS libraries in an atempt to build a ML Model capable of predicting whether or not someone has heart disease based on their medical attributes.
 
@@ -23,7 +23,7 @@ https://www.kaggle.com/datasets/redwankarimsony/heart-disease-data
 
 ## 3. Evaluation
 
-> If we can reach 95% accuracy at predicting whether or not a patient has heart disease the proof of concept we'll pursue the project
+> If we can gain accuracy of model than its previous accuracy at predicting whether or not a patient has heart disease the proof of concept we'll pursue the project.
 
 ## 4. Features
 1. age: age in years
